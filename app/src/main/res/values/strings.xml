@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="cost_of_service">Costo del servicio</string>
+    <string name="service_question">Qué tal estuvo el servicio?</string>
+    <string name="option_twenty">Increíble (20%)</string>
+    <string name="option_eighteen">Bueno (18%)</string>
+    <string name="option_fifteen">Bien (15%)</string>
+    <string name="round_up_switch">Redondear la propina?</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="tip_amount">Valor de propina: %s</string>
+</resources>
